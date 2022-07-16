@@ -1,8 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xerox78&langs_count=5&layout=compact)
-
-![stats](https://github-readme-stats.vercel.app/api?username=xerox78&show_icons=true&theme=great-gatsby) 
-
-
-
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
